@@ -2,7 +2,9 @@
 
 The most advanced file manager and FTP/SFTP/Amazon S3/WEBDav client for Mac OS X (10.7 +).
 
-[![Build Status](https://travis-ci.org/singuerinc/puppet-forklift.png?branch=master)](https://travis-ci.org/singuerinc/puppet-forklift)
+Installs ForkLift v2.5.5.
+
+[![Build Status](https://travis-ci.org/jozefizso/puppet-forklift.png?branch=master)](https://travis-ci.org/jozefizso/puppet-forklift)
 
 ## Usage
 
